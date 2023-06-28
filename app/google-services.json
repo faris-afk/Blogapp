@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722514082801",
+    "project_id": "projek-akhir-cdb78",
+    "storage_bucket": "projek-akhir-cdb78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722514082801:android:7c73630fc95b4253df2250",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722514082801-84g4vl43td7cjblu23o07fpu8v7inn99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3VPJBeKiUHISCgyUlub47D_jShfAJ4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722514082801-84g4vl43td7cjblu23o07fpu8v7inn99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
